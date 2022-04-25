@@ -1,6 +1,7 @@
 # This is my second codewars challenge, and it was also hard for me as at when I first attempted it.
 # Right now, I am wondering what the H...!
 # Date: ca January 2022
+# Refined Solution Date: April 25, 2022.
 # Solution ID: 2
 """
 The function below takes in an argument: a string which is in number format,
